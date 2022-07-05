@@ -5,17 +5,21 @@ body{
    
 }
 h1{
-    font-size: 40px;
-    margin-top: 5px;
+    font-size: 30px;
+    margin: 5px 15px;
 }
-#orange{
+p{
+    margin: 5px 15px;
+    font-weight: 200;
+}
+span{
     color: orange ;
 
 }
-.parent{
-width: 80%;
+.parents{
+width: 100%;
 display: flex;
-margin: 2px ;
+margin: 0px ;
 
 }
 .link-button{
@@ -25,18 +29,67 @@ margin: 2px ;
     border-radius: 15px;
     font-weight: 800;
     color: white;
-    margin-left: 1px;
+    margin-left: 15px;
+    
     
 }
-.child img {
-    width: 50%
+.child45{
+    width: 2px;
+    margin: 2px 2px 2px 0px;
+    
+
 }
-.container{
-    background-image: url(Framepic1.png);
-    background-size: cover;
-    background-repeat: no-repeat;
+
+.chhild12{
+    width: 10%;
+}
+    
+   
+    
+   
+  
+    
+}
+.parent1{
+    position: relative;
+    top: 15px;
+    left: 250px;
+    width: 100%;
+
 }
 .baby{
    display: flex; 
+  
 
 }
+.child2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 1px solid gray;
+    padding: 10px;
+    margin: auto auto;
+    box-shadow: 5px 2px 20px gray;
+    
+
+}
+.footer-box{
+    border: 1px solid black;
+    color:white ;
+    background-color: black;
+    text-align: center;
+}
+.pretty{
+    position: absolute;
+    top: 110%;
+    left: 50%;
+    text-align: justify;
+}
+.babu{
+    width: 20%;
+
+}
+    
+
+
