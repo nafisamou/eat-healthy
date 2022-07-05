@@ -4,6 +4,12 @@ body{
 }
 span{
     color: orange ;
+
+}
+h1 {
+    
+   
+    margin-top: 6px;
 }
 .link-button{
     background-image: linear-gradient(orange, red);
@@ -15,17 +21,27 @@ span{
     margin-left: 1px;
     
 }
+p{
+    text-align: justify;
+}
 .first-container{
-    background-image:url(Group\ 8449.png);
-   
-    background-repeat: no-repeat;
-    width: 100%;
-    padding: 0px 50px 50px 0px;
-   
-
+    display: flex;
+   width: 60%;
 }
 
+ img{
+    width: 50%;
+ }
 
+ .background-img{
+    background-image: url(Framepic1.png);
+    background-position: cover;
+    width: 50%;
+    height: 50%;
+    background-repeat: no-repeat;
+    
+ }
+ 
 
 
 
